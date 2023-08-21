@@ -1,0 +1,11 @@
+#ffffff
+#3d0240
+#e6e6e6
+#6c0471
+#0e000f
+#cccccc
+
+
+#4729d5
+
+izbacit novalidate nakon templatea
